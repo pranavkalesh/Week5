@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/koushikw-4/static/css/main.7cf01975.css",
+    "main.js": "/koushikw-4/static/js/main.1cb0d497.js",
+    "static/js/592.e9f6efe9.chunk.js": "/koushikw-4/static/js/592.e9f6efe9.chunk.js",
+    "static/media/logo.svg": "/koushikw-4/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/koushikw-4/index.html",
+    "main.7cf01975.css.map": "/koushikw-4/static/css/main.7cf01975.css.map",
+    "main.1cb0d497.js.map": "/koushikw-4/static/js/main.1cb0d497.js.map",
+    "592.e9f6efe9.chunk.js.map": "/koushikw-4/static/js/592.e9f6efe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf01975.css",
+    "static/js/main.1cb0d497.js"
+  ]
+}
